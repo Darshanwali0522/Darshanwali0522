@@ -1,6 +1,6 @@
 # 💫 About Me:
 🤖 AIML Student | AI & ML Enthusiast<br>💻 Building AI-powered applications and exploring emerging technologies<br>🚀 Hackathon Participant & Problem Solver<br>🌱 Currently learning Machine Learning, Deep Learning, and Cybersecurity<br>📌 Open to collaboration on AI, ML, and Web Development projects
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshann_0522) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Darshan wali) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Darshan wali) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@darshanwali3023) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanwali3023@gmail.com) 
